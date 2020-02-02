@@ -53,7 +53,7 @@ endfunction
 "
 call s:highlight('Comment',         s:DeepSkyBlue3,     s:clear,    s:italic)
 call s:highlight('Constant',        s:DeepSkyBlue3,     s:clear,    s:none)
-call s:highlight('String',          s:Teal,             s:clear,    s:italic)
+call s:highlight('String',          s:MoeRose,             s:clear,    s:italic)
 call s:highlight('Character',       s:SpringGreen3,     s:clear,    s:none)
 call s:highlight('Number',          s:SkyBlue1,         s:clear,    s:none)
 call s:highlight('Boolean',         s:SpringGreen3,     s:clear,    s:bold)
